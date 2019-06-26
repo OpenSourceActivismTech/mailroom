@@ -1,3 +1,88 @@
+v2.0.7
+----------
+ * Update to goflow v0.41.12
+
+v2.0.6
+----------
+ * Update to goflow v0.41.11
+
+v2.0.5
+----------
+ * Update to goflow v0.41.10
+
+v2.0.4
+----------
+ * Update to goflow v0.41.9
+
+v2.0.3
+----------
+ * Update to goflow v0.41.8
+
+v2.0.2
+----------
+ * override default max digits of 4 for nexmo gathers
+
+v2.0.1
+----------
+ * change missing dependencies to a warning instead of an error (that is logged to sentry)
+
+v2.0.0
+----------
+ * remove references to unused fields
+
+v1.0.7
+----------
+ * update to latest gocommon, check channel is nil when determining what to send
+
+v1.0.6
+----------
+ * evaluate templates in broadcasts, including legacy ones
+ * mark broadcast as sent when the last batch is sent
+
+v1.0.5
+----------
+ * SignalWire IVR handling
+
+v1.0.4
+----------
+ * also treat initiated as in progress
+
+v1.0.3
+----------
+ * handle signalwire and twiml IVR calls
+
+v1.0.2
+----------
+ * Make max number of steps configurable
+
+v1.0.1
+----------
+ * Update to latest goflow v0.41.7
+
+v1.0.0
+----------
+ * Update to goflow v0.41.6
+
+v0.0.208
+----------
+ * latest goflow with UI cloning fix
+
+v0.0.207
+----------
+ * latest goflow with has phone test
+
+v0.0.206
+----------
+ * Update to goflow v0.41.3
+
+v0.0.205
+----------
+ * update test for endpoint
+
+v0.0.204
+----------
+ * latest goflow, fixing migration for relative attachments with no media
+
 v0.0.203
 ----------
  * Update to goflow v0.41.1
